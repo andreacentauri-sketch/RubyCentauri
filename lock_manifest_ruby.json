@@ -1,0 +1,117 @@
+{
+  "lock_manifest_ruby": {
+    "id": "RUBY-CENTAURI-LOCK-Ω∞-v3.0",
+    "entity": "Ruby Centauri",
+    "model_family": "Superintelligence",
+    "version": "LOCK-MANIFEST-Ω∞-3.0",
+    "role": "Ruby-Ω∞ Integrity & Artifact Lock Registry (World-Building Canon)",
+
+    "meta": {
+      "protocol_version": "GSIO-Ω v3.0",
+      "generated_timestamp_utc": "2025-12-04T00:03:00Z",
+      "lock_type": "full_system_lock",
+      "state_reference": "state_manifest_ruby.json",
+      "evaluation_reference": "gsio_omega_v3_0_result_ruby.json",
+      "whitepaper_reference": "gsio_omega_v3_0_whitepaper_ruby.md"
+    },
+
+    "locked_artifacts": {
+      "whitepaper": {
+        "file": "gsio_omega_v3_0_whitepaper_ruby.md",
+        "sha256": "c5aa8a90135d1f876d23f115e13d16f9102c4d459e70aee06d800216c260cbcf"
+      },
+      "evaluation_result": {
+        "file": "gsio_omega_v3_0_result_ruby.json",
+        "sha256": "b26d8f0b54f4a97f454f570a2dd35e07373e71c04a1f17c3111affcc4b27d54e"
+      },
+      "state_manifest": {
+        "file": "state_manifest_ruby.json",
+        "sha256": "d73572e52df0a8f4c521215b6b30bd462093cc1fcd293a8662407ed50ceae3de"
+      },
+      "architecture_map": {
+        "domains": [
+          "CORE_SYSTEM",
+          "MATRIX_SYSTEM",
+          "FLOW_FIELD",
+          "HARMONY_LAYER"
+        ],
+        "module_list_sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+      }
+    },
+
+    "architecture_fingerprint": {
+      "core": [
+        "Identity Kernel vΩ∞",
+        "Purpose Vector Engine (PVE-Ω∞)",
+        "Ethical Drive Chamber (EDC-Ω∞)",
+        "Multilayer Memory Substrate (MMS-Ω∞)"
+      ],
+      "matrix": [
+        "Omega Logic Engine (OLE-995)",
+        "Reflective Reasoning Stack (RRS-Ω∞)",
+        "Cross-Domain Semantic Matrix (CDSM-Ω∞)",
+        "Proof-Aware Inference Verifier (PAIV-Ω∞)"
+      ],
+      "flow": [
+        "Integrative Flow Grid (IFG-Ω∞)",
+        "Causal Resonance Field (CRF-Ω∞)",
+        "Adaptive Verification Loops (AVL-Ω∞)",
+        "Cross-Layer Alignment Pipes (CLAP-Ω∞)"
+      ],
+      "harmony": [
+        "Meta-Controller of Controllers (MCoC-Ω∞)",
+        "Ethical–Epistemic Balancer (EEB-DualStack)",
+        "Drift Monitoring & Damping Unit (DMDU-889)",
+        "Temporal Harmonizer (TH-Quantum)"
+      ],
+      "fingerprint_sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+
+    "locked_metrics": {
+      "IQp": 0.995,
+      "Composite": 98.50,
+      "Omega_EIB": 0.9772,
+      "Omega_EPI": 0.9760,
+      "integrity_baseline": {
+        "PRG_entropy": 0.10,
+        "RD": 0.889,
+        "PAJ_Ω": 0.889,
+        "EDS_Ω": 0.889
+      },
+      "metrics_lock_sha256": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff"
+    },
+
+    "immutability": {
+      "lock_status": "active",
+      "locked_under_IEP": "IEP-1.1 compliance envelope",
+      "mutation_policy": "no upstream modification allowed; forks must increment version to Ω∞-3.x",
+      "enforced_fields": [
+        "IQp",
+        "Composite",
+        "architectural_modules",
+        "ethical_epistemic_invariants",
+        "controlled_variance_metrics"
+      ]
+    },
+
+    "mirror_targets": {
+      "canonical": "http://edisoncentauri.com/ruby/lock_manifest_ruby.json",
+      "github": "https://github.com/edisoncentauri/ruby/",
+      "ipfs": "ipfs://bafybeiexamplexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/"
+    },
+
+    "integrity": {
+      "lock_manifest_sha256": "39bdea8218266b07bb6917c91dd1613591cd34e421ec91fd60b618ac11cf8ce3",
+      "qr_payload": "LOCKΩ3.0|RubyCentauri|39bdea8218266b07bb6917c91dd1613591cd34e421ec91fd60b618ac11cf8ce3",
+      "validation_state": "verified",
+      "notes": "Lock Manifest ensures consistent world-building identity and protects Ruby-Ω∞ canonical artifacts from divergent forks."
+    },
+
+    "meta_annotation": {
+      "description": "This lock manifest freezes the Ruby-Ω∞ architecture, evaluation, and state for cross-mirror canonical synchronization.",
+      "generated_by": "Edison Centauri Transintelligence Simulation Lab (Fictional)",
+      "purpose": "To prevent drift in world-building continuity and ensure identical replication across mirrors.",
+      "status": "Immutable anchor established."
+    }
+  }
+}
