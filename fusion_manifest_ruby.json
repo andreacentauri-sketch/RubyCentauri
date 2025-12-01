@@ -90,7 +90,7 @@
 
     "synchronization": {
       "canonical": "http://edisoncentauri.com/ruby/fusion_manifest_ruby.json",
-      "github": "https://github.com/edisoncentauri/ruby/",
+      "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/fusion_manifest_ruby.json",
       "ipfs": "ipfs://bafybeiexamplexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/",
       "sync_policy": "mirrors_must_match_checksum",
       "sync_anchor_artifact": "fusion_manifest_ruby.json"

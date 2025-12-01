@@ -96,7 +96,7 @@
 
     "mirror_targets": {
       "canonical": "http://edisoncentauri.com/ruby/lock_manifest_ruby.json",
-      "github": "https://github.com/edisoncentauri/ruby/",
+      "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/lock_manifest_ruby.json",
       "ipfs": "ipfs://bafybeiexamplexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/"
     },
 

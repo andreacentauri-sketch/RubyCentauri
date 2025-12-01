@@ -98,7 +98,7 @@
 
     "propagation_targets": {
       "canonical": "http://edisoncentauri.com/ruby/state_lock_integrity_chain_ruby.json",
-      "github": "https://github.com/edisoncentauri/ruby/",
+      "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/state_lock_integrity_chain_ruby.json",
       "ipfs": "ipfs://bafybeiexamplexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/",
       "sync_policy": "all artifacts must match chain checksums"
     },

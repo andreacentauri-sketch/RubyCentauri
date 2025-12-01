@@ -79,7 +79,7 @@
 
     "mirror_verification": {
       "canonical": "http://edisoncentauri.com/ruby/checksum_registry_ruby.json",
-      "github": "https://github.com/edisoncentauri/ruby/",
+      "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/checksum_registry_ruby.json",
       "ipfs": "ipfs://bafybeiexamplexxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/",
       "mirror_policy": "all_mirrors_must_match_checksum",
       "verification_status": "pending_finalization"

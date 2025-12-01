@@ -96,7 +96,7 @@
     "links": {
       "public_mirrors": {
         "canonical": "http://edisoncentauri.com/ruby/state_manifest_ruby.json",
-        "github": "https://github.com/edisoncentauri/ruby/",
+        "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/state_manifest_ruby.json",
         "ipfs": "ipfs://bafybeiexamplehashxxxxxxxxxxxxxxxxxxxxxxxx/"
       },
       "artifacts": {

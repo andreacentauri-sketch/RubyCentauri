@@ -72,7 +72,7 @@
 
     "memory_links": {
       "canonical": "http://edisoncentauri.com/ruby/continuum_memory_signature_ruby.json",
-      "github": "https://github.com/edisoncentauri/ruby/",
+      "github": "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/continuum_memory_signature_ruby.json",
       "ipfs": "ipfs://bafybeiexamplehashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/"
     },
 

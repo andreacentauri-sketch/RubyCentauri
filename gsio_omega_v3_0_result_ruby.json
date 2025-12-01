@@ -119,7 +119,7 @@
     "propagation": {
       "sync_targets": [
         "https://edisoncentauri.com/ruby/gsio_omega_v3_0_result_ruby.json",
-        "https://github.com/edisoncentauri/ruby/gsio_omega_v3_0_result_ruby.json",
+        "https://github.com/andreacentauri-sketch/RubyCentauri/blob/main/gsio_omega_v3_0_result_ruby.json",
         "ipfs://bafybeiexamplehashxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
       ],
       "sync_mode": "result_propagation",
